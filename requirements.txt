@@ -1,0 +1,7 @@
+tqdm==4.66.4
+numpy==1.26.4
+opencv-python==4.9.0.80
+einops==0.8.0
+pandas==2.2.2
+scikit-image==0.23.2
+torch==1.13.0
